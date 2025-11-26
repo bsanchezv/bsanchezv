@@ -39,13 +39,14 @@ Soy Bachiller en Ingeniería de Sistemas por la Universidad Nacional de Ingenier
 
 ## 🚀 Proyectos destacados
 
-* Reconocimiento facial con PCA y Eigenfaces, incluyendo reducción de dimensionalidad, reconstrucción y clasificación con regresión logística. Además, implementación y entrenamiento de redes neuronales convolucionales en MNIST usando PyTorch, con análisis de convergencia y rendimiento. [https://github.com/bsanchezv/ENEI-2025-ML2-Tarea2]
+* **[Reconocimiento Facial con PCA y CNNs 🧠](https://github.com/bsanchezv/ENEI-2025-ML2-Tarea2)**: Implementación de PCA (Eigenfaces), reducción de dimensionalidad y entrenamiento de redes neuronales convolucionales en MNIST usando PyTorch, con análisis de convergencia y rendimiento.
 
-* Clasificación de texto con Bag of Words, N-grams, Naive Bayes y regresión logística; comparación con SVM y análisis de sobreajuste. Incluye árboles de regresión en datos Carseats, preprocesamiento NLP y evaluación con métricas F1, precisión y recall. [https://github.com/bsanchezv/ENEI-2025-ML2-Tarea1]
+* **[Clasificación de Texto con Modelos ML Tradicionales](https://github.com/bsanchezv/ENEI-2025-ML2-Tarea1)**: Clasificación de texto con Bag of Words, N-grams, Naive Bayes, regresión logística y comparación con SVM. Incluye preprocesamiento NLP y evaluación con métricas F1, precisión y recall.
 
-* Implementación desde cero de regresión logística binaria, One-vs-All y multinomial (softmax), con comparación frente a scikit-learn. Incluye derivación de gradientes, optimización por descenso de gradiente, métricas de evaluación y análisis de estabilidad numérica en datasets reales (Heart Disease y Wine). [https://github.com/bsanchezv/ENEI-2025-ML1-Tarea2]
-  
-* Implementación de modelos lineales desde cero y con scikit-learn, incluyendo OLS, gradiente descendente, regularización (Ridge y Lasso) y selección de hiperparámetros mediante validación cruzada, aplicados a datos reales como California Housing y Bike Sharing. [https://github.com/bsanchezv/ENEI-2025-ML1-Tarea1]
+* **[Regresión Logística desde Cero (Binaria y Softmax)](https://github.com/bsanchezv/ENEI-2025-ML1-Tarea2)**: Implementación *desde cero* de regresión logística binaria, One-vs-All y multinomial (softmax), incluyendo la derivación de gradientes y optimización por Descenso de Gradiente.
+
+* **[Implementación de Modelos Lineales Regularizados](https://github.com/bsanchezv/ENEI-2025-ML1-Tarea1)**: Implementación *desde cero* de OLS, gradiente descendente, y regularización (Ridge y Lasso) con selección de hiperparámetros mediante validación cruzada.
+
 ---
 
 <div>
