@@ -12,13 +12,13 @@
 
 ---
 
-## 🔬 Acerca de Mí
+## 🔬 Acerca de mí
 
 Soy Bachiller en Ingeniería de Sistemas por la Universidad Nacional de Ingeniería (UNI) y actualmente me apasiona el mundo de la Ciencia de Datos. Me interesa aplicar técnicas de análisis, modelado y visualización para transformar datos en información valiosa que impulse la toma de decisiones.
 
 ---
 
-## 🛠️ Mi Stack de Tecnologías
+## 🛠️ Mi stack de tecnologías
 
 🌱 Estas son algunas de las herramientas y lenguajes con los que trabajo habitualmente:
 
@@ -37,7 +37,7 @@ Soy Bachiller en Ingeniería de Sistemas por la Universidad Nacional de Ingenier
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos destacados
 
 * Reconocimiento facial con PCA y Eigenfaces, incluyendo reducción de dimensionalidad, reconstrucción y clasificación con regresión logística. Además, implementación y entrenamiento de redes neuronales convolucionales en MNIST usando PyTorch, con análisis de convergencia y rendimiento. [https://github.com/bsanchezv/ENEI-2025-ML2-Tarea2]
 
