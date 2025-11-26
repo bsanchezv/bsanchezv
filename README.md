@@ -50,11 +50,11 @@ Soy Bachiller en Ingeniería de Sistemas por la Universidad Nacional de Ingenier
 ---
 
 <div>
-   <h3>
+   <h2>
       🔗 Conectemos:
       <a href="https://www.linkedin.com/in/bsanchezv/" target="_blank">
          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="20px">
          @bsanchezv
       </a>
-   </h3>
+   </h2>
 </div>
