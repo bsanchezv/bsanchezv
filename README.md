@@ -39,6 +39,8 @@ Soy Bachiller en Ingeniería de Sistemas por la Universidad Nacional de Ingenier
 
 ### 🚀 Proyectos Destacados
 
+* Reconocimiento facial con PCA y Eigenfaces, incluyendo reducción de dimensionalidad, reconstrucción y clasificación con regresión logística. Además, implementación y entrenamiento de redes neuronales convolucionales en MNIST usando PyTorch, con análisis de convergencia y rendimiento. [https://github.com/bsanchezv/ENEI-2025-ML2-Tarea2]
+
 * Clasificación de texto con Bag of Words, N-grams, Naive Bayes y regresión logística; comparación con SVM y análisis de sobreajuste. Incluye árboles de regresión en datos Carseats, preprocesamiento NLP y evaluación con métricas F1, precisión y recall. [https://github.com/bsanchezv/ENEI-2025-ML2-Tarea1]
 
 * Implementación desde cero de regresión logística binaria, One-vs-All y multinomial (softmax), con comparación frente a scikit-learn. Incluye derivación de gradientes, optimización por descenso de gradiente, métricas de evaluación y análisis de estabilidad numérica en datasets reales (Heart Disease y Wine). [https://github.com/bsanchezv/ENEI-2025-ML1-Tarea2]
